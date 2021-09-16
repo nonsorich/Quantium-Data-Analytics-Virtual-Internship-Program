@@ -307,13 +307,12 @@ ggplot(data = AVG_PRICE, aes(weight = Avg, x = LIFESTAGE, fill = PREMIUM_CUSTOME
   theme(axis.text.x = element_text(angle = 90, vjust = 0.5))
 ```
 
-<h2>Findings</h2>
+Findings
 
-<ul>
-  <li>2018-12-25 is missing in the DATE column and it's assumed that the store was closed on Christmas day.</li>
-  <li>Sales increased in the days before Christmas day.</li>
-  <li>Sales are mainly coming from older families (budget), retirees (mainstream) and young singles/couples (mainstream).</li>
-  <li>Mainstream retirees and mainstream young singles/couples contribute more to the sales and it isn't the case with older families budget.</li>
-  <li>Each of the premium segment in older families and young families buy more chips.</li>
-  <li>Mainstream mid-age single/couples and mainstream young singles/couples spend more per chips compared to other premium customers in their category.</li>
-</ul>  
+ 2018-12-25 is missing in the DATE column and it's assumed that the store was closed on Christmas day.
+ Sales increased in the days before Christmas day.
+ Sales are mainly coming from older families (budget), retirees (mainstream) and young singles/couples (mainstream).
+ Mainstream retirees and mainstream young singles/couples contribute more to the sales and it isn't the case with older families budget.
+ Each of the premium segment in older families and young families buy more chips.</li>
+ Mainstream mid-age single/couples and mainstream young singles/couples spend more per chips compared to other premium customers in their category.
+

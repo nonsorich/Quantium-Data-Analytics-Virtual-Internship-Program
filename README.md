@@ -15,9 +15,10 @@ You are part of Quantium's retail analytics team and have been approached by you
 Manager for Chips, who wants to better understand the types of customers who purchase Chips and their<br /> 
 purchasing behaviour within the region.
 
-<h3>Task 1:</h3> Data Preparation and Customer Analytics
-Conduct analysis on your client's transaction dataset and identify customer purchasing<br /> 
-behaviours to generate insights and provide commercial recommendations.
+<h3>Task 1</h3> 
+<h4>Data Preparation and Customer Analytics </h4> 
+Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to <br /> 
+generate insights and provide commercial recommendations.
 
 Examine transaction data - look for inconsistencies, missing data across the data set, outliers,<br />
 correctly identified category items, numeric data across all tables. If you determine any anomalies<br /> 
